@@ -8,3 +8,6 @@ Multi-Variables contributing to air pollution over 40 different [US cities was s
 Regression Analysis of daily % change of prices of Amazon stock, Oil,Gold,Bitcoin,Treasury Bond against [% daily change of S&P500](./PythonProjectCompiled.ipynb)
 
 Time series analysis of Air passengers data from [1949-1960 using R.](./TS_1Rcode.Rmd)
+
+ ML perceptron [algorithm in python](./perceptron.py)
+ 
