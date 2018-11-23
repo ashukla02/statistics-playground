@@ -11,5 +11,5 @@
 
 5.ML perceptron [algorithm in python](./perceptron.py)
 
-6.calculate probability of a tennis match going beyond 12-12 given [it went beyond 6-6](./grandslam.ipynb).
+6.Calculate probability of a tennis match going beyond 12-12 given [it went beyond 6-6](./grandslam.ipynb).
  
