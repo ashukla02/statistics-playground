@@ -15,7 +15,7 @@
  
 7.Anaylsed time series data of Lake Erie Water levels [using R](./STA9701-project2Abhiruchi_Shukla.pdf)
 
-8.Visualized the ad campaign data, analyzed the performance statistics and built a subset selection model [using R](./Report on the Ad Campaign Data.pdf)
+8.Visualized the ad campaign data, analyzed the performance statistics and built a subset selection model [using R](./ReportontheAdCampaignData.pdf
       
 
       
