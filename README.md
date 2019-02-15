@@ -13,7 +13,7 @@
 
 6.Analysed data from tennis grand slam dataset to calculate probability of a tennis match going beyond 12-12 given [it went beyond 6-6](./grandslam.ipynb).
  
-7. Anaylsed time series data of Lake Erie Water levels [using R](./statistics-playground/STA9701-project2Abhiruchi_Shukla.pdf)
+7. Anaylsed time series data of Lake Erie Water levels [using R](./STA9701-project2Abhiruchi_Shukla.pdf)
 
       
       
